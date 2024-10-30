@@ -53,3 +53,5 @@ Monte Carlo Method Algorithm:
 Solution:
 
 Code listing -> https://github.com/6Rod1onKA9/PolygonWorkBench/blob/main/codepolygon.cpp
+
+Result -> ![image](https://github.com/user-attachments/assets/3aad9bb4-983b-445c-9566-a77ad1347303)
